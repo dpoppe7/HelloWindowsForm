@@ -1,4 +1,4 @@
-# HelloWindowsForms
+# HelloWindowsForms - GUI
 
 
 Creates a button to say hello to user input textbox.
