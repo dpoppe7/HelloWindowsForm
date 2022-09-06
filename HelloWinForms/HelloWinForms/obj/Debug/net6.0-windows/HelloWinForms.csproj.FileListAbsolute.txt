@@ -1,0 +1,17 @@
+C:\Users\dpoppe\source\repos\HelloWinForms\HelloWinForms\bin\Debug\net6.0-windows\HelloWinForms.exe
+C:\Users\dpoppe\source\repos\HelloWinForms\HelloWinForms\bin\Debug\net6.0-windows\HelloWinForms.deps.json
+C:\Users\dpoppe\source\repos\HelloWinForms\HelloWinForms\bin\Debug\net6.0-windows\HelloWinForms.runtimeconfig.json
+C:\Users\dpoppe\source\repos\HelloWinForms\HelloWinForms\bin\Debug\net6.0-windows\HelloWinForms.dll
+C:\Users\dpoppe\source\repos\HelloWinForms\HelloWinForms\bin\Debug\net6.0-windows\HelloWinForms.pdb
+C:\Users\dpoppe\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net6.0-windows\HelloWinForms.csproj.AssemblyReference.cache
+C:\Users\dpoppe\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net6.0-windows\HelloWinForms.Form1.resources
+C:\Users\dpoppe\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net6.0-windows\HelloWinForms.csproj.GenerateResource.cache
+C:\Users\dpoppe\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net6.0-windows\HelloWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpoppe\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net6.0-windows\HelloWinForms.AssemblyInfoInputs.cache
+C:\Users\dpoppe\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net6.0-windows\HelloWinForms.AssemblyInfo.cs
+C:\Users\dpoppe\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net6.0-windows\HelloWinForms.csproj.CoreCompileInputs.cache
+C:\Users\dpoppe\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net6.0-windows\HelloWinForms.dll
+C:\Users\dpoppe\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net6.0-windows\refint\HelloWinForms.dll
+C:\Users\dpoppe\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net6.0-windows\HelloWinForms.pdb
+C:\Users\dpoppe\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net6.0-windows\HelloWinForms.genruntimeconfig.cache
+C:\Users\dpoppe\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net6.0-windows\ref\HelloWinForms.dll
